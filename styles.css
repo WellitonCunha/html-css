@@ -87,6 +87,7 @@ footer {
 
     article {
         width: 65%;
+        text-align: justify;
     }
 
     aside{
@@ -94,5 +95,6 @@ footer {
         background-color: cadetblue;
         padding: 15px;
         border-radius: 4px;
+        text-align: justify;
     }
 }
